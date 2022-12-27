@@ -1,7 +1,8 @@
 # Introduce    
 🔖Name : Park YiJun. @ParkYiJun. (can call **Reason, Reasony**)    
 🌏 Lived in : Republic of Korea(South Korea)    
-📧 Email : ydlwnsj25@gmail.com   
+📧 Email : ydlwnsj25@gmail.com    
+<a href="https://b-reason.tistory.com/"><img src="http://img.shields.io/badge/Tistroy-000000?style=plastic&logo=Tistroy&logoColor=white"/></a>
 # Greetings   
 Hi, I'm @ParkYiJun. I'm the person that want to work as a game programmer.   
 > My Unavailable Dream is Making a game that people who want to play can access by various device and various methods.
@@ -11,7 +12,7 @@ I'm also interested in AR/VR, exactly Making a MMORPG Game used AR/VR that can b
 Talking like this makes me look like meta person... Yes. I wanna live in metaverse world when play a game. It will be fun. And it will makes us more close. 
 My Goal is to become a programmer who can do a lot. So, I hope I can give fun I made to players.   
 # My Learning *(kinds of skill)*    
-### Languages :  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=gray"/><img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=CSharp&logoColor=white"/><img src ="https://img.shields.io/badge/Java-007396?style=badge&logo=Java&logoColor=white"/>
+### Languages :  <img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=C&logoColor=gray"/><img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=CSharp&logoColor=white"/><img src ="https://img.shields.io/badge/Java-007396?style=badge&logo=Java&logoColor=white"/>
 > I can audit codes using these language. Completed Basic.
 ### Engines & Frameworks : <img src="https://img.shields.io/badge/Unity-FFFFFF?style=badge&logo=Unity&logoColor=gray"/><img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=badge&logo=Unreal%20Engine&logoColor=white"/><img src="http://img.shields.io/badge/Spring-6DB33F?style=badge&logo=Spring&logoColor=white"/><img src="http://img.shields.io/badge/MySQL-4479A1?style=badge&logo=MySQL&logoColor=white"/><img src="http://img.shields.io/badge/AndroidStudio-3DDC84?style=badge&logo=Android%20Studio&logoColor=white"/>
 > Just can do Basic.
