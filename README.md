@@ -13,10 +13,8 @@
 
 # My Learning *(kinds of skill)*    
 ### Languages :  <img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=C&logoColor=gray"/><img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=CSharp&logoColor=white"/><img src ="https://img.shields.io/badge/Java-007396?style=badge&logo=Java&logoColor=white"/>
-> I can audit codes using these language. Completed Basic.
-### Engines & Frameworks : <img src="https://img.shields.io/badge/Unity-FFFFFF?style=badge&logo=Unity&logoColor=gray"/><img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=badge&logo=Unreal%20Engine&logoColor=white"/><img src="http://img.shields.io/badge/MySQL-4479A1?style=badge&logo=MySQL&logoColor=white"/><img src="http://img.shields.io/badge/AndroidStudio-3DDC84?style=badge&logo=Android%20Studio&logoColor=white"/>
-> Just can do Basic.
-### IDEs : <img src="http://img.shields.io/badge/VisualStudio-5C2D91?style=badge&logo=Visual%20Studio&logoColor=white"/><img src ="http://img.shields.io/badge/VisualCode-007ACC?style=badge&logo=Visual%20Studio%20Code&logoColor=white"/><img src="http://img.shields.io/badge/Eclipse-2C2255?style=badge&logo=Eclipse%20IDE&logoColor=white"/><img src="https://img.shields.io/badge/Notepad++-90E59A?style=badge&logo=Notepad%2B%2B&logoColor=black"/>
+### Engines & Frameworks : <img src="https://img.shields.io/badge/Unity-FFFFFF?style=badge&logo=Unity&logoColor=gray"/><img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=badge&logo=Unreal%20Engine&logoColor=white"/>
+### IDEs : <img src="http://img.shields.io/badge/VisualStudio-5C2D91?style=badge&logo=Visual%20Studio&logoColor=white"/><img src ="http://img.shields.io/badge/VisualCode-007ACC?style=badge&logo=Visual%20Studio%20Code&logoColor=white"/><img src="https://img.shields.io/badge/Notepad++-90E59A?style=badge&logo=Notepad%2B%2B&logoColor=black"/>
 ### VCSs : <img src="http://img.shields.io/badge/Git-F05032?style=badge&logo=Git&logoColor=white"/>
 ### Etc(not good but have studied)
 - Computer Graphics: studied in Lecture using openGL.
